@@ -1,11 +1,8 @@
-# PHSX 815: Week 11
 ## K-Means Clustering Algorithm
 
 This repository includes a script that demonstrates the K-means clustering algorithm, showing a method of separating clusters of data. 
 
 ---
-
-### Homework 12:
 
 ### Running the Code
 The construction plots are made by the `kmeans.py` python file. This file requires python3 to run, and includes the following packages listed at the top of the script:
